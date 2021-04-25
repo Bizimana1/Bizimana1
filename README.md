@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bizimana1
-- 👀 I’m interested in software development
+- 👋 Hi, I’m @Bizimana1 BIZIMANA Salomon
+- 👀 I’m a software developer
 
 
 
