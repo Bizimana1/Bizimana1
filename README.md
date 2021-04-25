@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bizimana1 BIZIMANA Salomon
+- 👋 Hi, I’m @Bizimana1, BIZIMANA Salomon
 - 👀 I’m a software developer
 
 
